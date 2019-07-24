@@ -1,0 +1,2 @@
+# stringcache
+Cache for string 
